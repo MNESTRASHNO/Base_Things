@@ -1,6 +1,6 @@
-# My Project
+# Мой проект
 
-Welcome to My Project! Please choose your language:
+Добро пожаловать в Мой проект! Пожалуйста, выберите нужный язык:
 
 - [Русский](README.md), [English](README-en.md)
 # Воркшоп по Расследованию Инцидентов
