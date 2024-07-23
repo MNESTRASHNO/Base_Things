@@ -9,7 +9,8 @@
 
 На этом воркшопе, посвященном расследованию инцидента, вам предстоит взять на себя роль детектива и разобраться в том, как злоумышленники получили доступ к целевой машине.
 
-![KILL_CHAIN](https://github.com/MNESTRASHNO/Base_Things/blob/main/photo_2024-07-23_15-32-20.jpg?raw=true)
+![KILL_CHAIN1](https://github.com/MNESTRASHNO/Base_Things/blob/main/photo_2024-07-23_15-32-20.jpg?raw=true) 
+![KILL_CHAIN2](https://github.com/MNESTRASHNO/Base_Things/blob/main/photo_2024-07-23_15-32-21.jpg?raw=true)
 
 ## Немного предыстории, так сказать лорный момент
 
